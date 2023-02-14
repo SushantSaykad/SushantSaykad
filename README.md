@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning Javascript/DSA 
 - 💞️ I'm Currently Looking For placements
-- 📫 How to reach me https://sushantsaykad.github.io/portfolio/
+- 📫 How to reach me sushantsaykad.sae.comp@gmail.com or https://sushantsaykad.github.io/portfolio/
 
 <!---
 SushantSaykad/SushantSaykad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
