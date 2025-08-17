@@ -1,8 +1,8 @@
 - 👀 Building Micro Saas
 - 👋 Hi, I’m @SushantSaykad
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning Javascript/DSA 
-- 💞️ I'm Currently Looking For placements
+- 🌱 I’m currently learning AI/ML 
+- 💞️ I'm Currently Looking For a Tech Job(AI/ML + Fullstack Role)
 - 📫 How to reach me sushantsaykad11@gmail.com or https://sushantsaykad.github.io/portfolio/
 
 <!---
